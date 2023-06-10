@@ -155,10 +155,6 @@ with gr.Blocks() as demo:
 
         When using `melody`, ou can optionaly provide a reference audio from
         which a broad melody will be extracted. The model will then try to follow both the description and melody provided.
-
-        You can also use your own GPU or a Google Colab by following the instructions on our repo.
-        See [github.com/facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
-        for more details.
         """
     )
 
